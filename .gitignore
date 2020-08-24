@@ -1,3 +1,13 @@
+# Project ignores
+input
+log
+output
+output4
+
+# IDE
+.idea
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
